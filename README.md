@@ -1,4 +1,4 @@
-How to dockerize your PHP Monolith
+# How to dockerize your PHP Monolith
 
 ## Description
 Having an old PHP Monolith and you don't know how to dockerize it?
