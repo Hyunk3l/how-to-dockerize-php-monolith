@@ -1,3 +1,6 @@
+![How to dockerize your PHP Monolith](https://www.fabridinapoli.com/images/posts/how-to-dockerize-php-monolith.png)
+
+
 # How to dockerize your PHP Monolith
 
 ## Description
