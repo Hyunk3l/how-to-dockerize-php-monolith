@@ -25,3 +25,10 @@ services:
       dockerfile: ./docker/redis/Dockerfile
     ports:
       - 6379:6379
+
+  sphinx:
+    build:
+      context: ./
+      dockerfile: ./docker/sphinx/Dockerfile
+    ports:
+      - 9306:9306
