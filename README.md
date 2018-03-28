@@ -32,4 +32,6 @@ docker-compose up --build
 
 * [How to dockerize your old PHP monolith - part three: PHP-FPM](https://www.fabridinapoli.com/how-to-dockerize-your-php-monolith-part-three-php-fpm/)
 
+* [How to dockerize your old PHP monolith - part four: Redis and Sphinx](https://www.fabridinapoli.com/how-to-dockerize-your-php-monolith-part-four-redis-sphinx/)
+
 and more to come...
